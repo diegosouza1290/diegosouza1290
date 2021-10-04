@@ -71,8 +71,8 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-f58220.svg?logo=firebase&logoColor=white"></a>    
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-f58220.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-ea4535.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
@@ -84,13 +84,14 @@
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-205081.svg?logo=bitbucket&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-1f1f1f.svg?logo=Jenkins&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-1f1f1f.svg?logo=Jenkins&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/docker-23C2EE.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-23C2EE.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src ="https://img.shields.io/badge/Linux-1f1f1f.svg?logo=linux&logoColor=white"></a>
 </p>
