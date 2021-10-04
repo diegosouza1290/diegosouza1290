@@ -2,7 +2,14 @@
 <h3 align="center">
   Welcome to Diego Souza's profile!
 </h3>
+
 </br>
+
+## 🔥 Summary
+
+<p align="justify">
+  My strong suits are Python and Javascript development, computer vision, and machine (deep) learning in both industry and academia. Also, I have good knowledge of signal processing, pattern recognition, data analytics, statistical modeling, clustering & classification, and ML Algorithms. Over the next few years, I intend to develop as a Software engineer focused on ML. For that, I have learned a bit more about main trends and new data architecture models.
+</p>
 
 ## 🔥 Streak stats
 
@@ -48,12 +55,14 @@
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>    
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-41b883.svg?logo=Vue.js&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue-41b883.svg?logo=Vue.js&logoColor=white"></a>
     <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-4e8ef7.svg?logo=ionic&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-A6120D.svg?logo=angular&logoColor=white"></a> 
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-000000.svg?logo=next.js&logoColor=white"></a> 
     <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-14354C.svg?logo=Flask&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-14354C.svg?logo=Flask&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ea4535.svg?logo=opencv&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
