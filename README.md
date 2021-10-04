@@ -5,7 +5,7 @@
 
 </br>
 
-## 🔥 Summary
+## 📘 Summary
 
 <p align="justify">
   My strong suits are Python and Javascript development, computer vision, and machine (deep) learning in both industry and academia. Also, I have good knowledge of signal processing, pattern recognition, data analytics, statistical modeling, clustering & classification, and ML Algorithms. Over the next few years, I intend to develop as a Software engineer focused on ML. For that, I have learned a bit more about main trends and new data architecture models.
