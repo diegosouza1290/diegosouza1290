@@ -10,6 +10,8 @@
   <a href="https://github.com/diegosouza1290/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="diegosouza1290's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosouza1290&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
+<!--   </br></br>
+  <img src="https://komarev.com/ghpvc/?username=diegosouza1290" alt="https://github.com/diegosouza1290" /> -->
 </p>
 
 ## 🛠️ Languages and Tools
